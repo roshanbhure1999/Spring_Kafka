@@ -23,3 +23,5 @@ kafka-console-consumer.bat --bootstrap-server localhost:9092 --topic javatechie
 
 kafka-console-consumer.bat --topic javaJsonGuide --from-beginning --bootstrap-server localhost:9092
 kafka-console-consumer.bat --topic wikimedia_new --from-beginning --bootstrap-server localhost:9092
+
+Video Refrence Link :- https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLwoack4ZiTyewUcF6y6BU
